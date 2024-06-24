@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gavasthisp
 - 👀 I’m interested in Software Development, Microsoft technologies, Power Platform, .Net
-- 🌱 I’m currently learning Power Apps, Power Automate, .Net
+- 🌱 I’m currently learning PowerApps, Power Automate, AI Builder, Copilot .Net
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
