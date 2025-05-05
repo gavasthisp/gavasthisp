@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gautam Avasthi
+- 👋 Hi, I’m Gautam
 - 👀 I’m interested in Software Development, Microsoft technologies, Power Platform
 - 🌱 I’m currently working on Power Apps, Power Automate, AI Builder, Copilot, Power Pages
 - 💞️ I’m looking to collaborate on above technologies
